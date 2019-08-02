@@ -6,9 +6,7 @@ email: reeramanr@sce.carleton.ca
 description: > # this means to ignore newlines until "url:"
   Academic Webpage for Dr. Sreeraman Rajan, from Carleton University in Ottawa, Canada.
 footer_text: >
-  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+  WebDev by <a href="https://www.linkedin.com/in/dickkevin/">Kevin Dick</a> using the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
 url:  # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/

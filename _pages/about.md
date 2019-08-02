@@ -28,3 +28,16 @@ He was the chair of IEEE Ottawa Section (2011-2012) and is currently the IEEE Ca
 
 Prof. Sreeraman Rajan's research areas include sensors and sensor systems (biomedical, defence and security applications), compressive sensing, signal processing (including biomedical signal processing, statistical signal processing, adaptive signal processing), machine learning, pattern classification.
 
+#### **Sensors & Sensor Systems**
+My research lab has extensive experience in the design, development, and testing of sensors and their systems for a broad variety of applications including biomedical, defence, and security applications.
+
+#### **Compresive Sensing**
+text here about CS
+
+#### **Signal Processing**
+- Biomedical Applications
+- Statistical Signal PRocessing
+- Adaptive Signal Processing
+
+#### **Machine Learning & Pattern Classification**
+Recently, we have levereaged classical and contemporary (deep) machine learning methods in our applications.
